@@ -125,7 +125,7 @@ function updateStatus() {
 //    console.log(oldStatus);
 
 //    if (currentStatus === 1 && !oldStatus === 1) {
-//        console.log('Switch to online');
+//        console.log('Cambiar a en línea');
 //        customMessage = undefined;
 //        oldStatus = 1;
 //    }
@@ -142,7 +142,7 @@ function updateStatus() {
         if (maintenanceMode === true) {
             const Embed = new Discord.MessageEmbed()
             .setColor(config.maintenancemode.colour)
-            .setTitle('Estado de Alxcraft Network')
+            .setTitle('Estado de Nombre del Server')
             .setURL(config.website)
             .setAuthor(config.servername, config.youricon, config.website)
             .setDescription(config.maintenancemode.description)
@@ -186,7 +186,7 @@ function updateStatus() {
             msg.edit({ embeds: [Embed] })
         }
     });
-    console.log('Estado ha sido actualizado!')
+    console.log('¡Estado ha sido actualizado!')
 }
 
 client.on('ready', c => {
