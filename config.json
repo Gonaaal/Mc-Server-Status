@@ -1,11 +1,11 @@
 {
-    "displayip": "play.alxcraft.com",
-    "servername": "Alxcraft Network",
-    "youricon": "https://cdn.discordapp.com/attachments/947219474543693934/965224721748729926/ALXCRAFT.PNG",
-    "website": "https://www.alxcraft.com/status/",
+    "displayip": "IP SERVER", 
+    "servername": "Nombre Server",
+    "youricon": "Logo Server",
+    "website": "Pagina Web",
     "UpdateIntervalEmbed": "10s",
     "UpdateIntervalAPIChecking": "10s",
-    "guildid": "956978298745929758",
+    "guildid": "ID SERVER",
     "maintenancemode": {
         "colour": "#FFA500",
         "description": "",
