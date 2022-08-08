@@ -18,10 +18,10 @@
 2. - Usa`node .` para iniciar el bot.
 
 # Instalacion:
-1. Run `npm i` if you havent already.
+1. Escibre`npm i` en el cmd si no lo has echo aun.
 2. Renombra `.env.sample` a `.env`
-3. Renombra `config.json.sample` q `config.json`
-4. Edita la `config.json` como tu quieras
+3. Renombra `config.json.sample` a `config.json`
+4. Edita `config.json` como tu quieras
 5. Anade, la ip del server, Puerto, Muestre la IP y el canal donde desea que vaya el mensaje incrustado en el archivo`.env`.
 6. Inicia el bot usando `node .`
 7. Detenga el bot una vez que se haya enviado el mensaje.
