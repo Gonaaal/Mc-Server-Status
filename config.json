@@ -1,0 +1,43 @@
+{
+    "displayip": "play.alxcraft.com",
+    "servername": "Alxcraft Network",
+    "youricon": "https://cdn.discordapp.com/attachments/947219474543693934/965224721748729926/ALXCRAFT.PNG",
+    "website": "https://www.alxcraft.com/status/",
+    "UpdateIntervalEmbed": "10s",
+    "UpdateIntervalAPIChecking": "10s",
+    "guildid": "956978298745929758",
+    "maintenancemode": {
+        "colour": "#FFA500",
+        "description": "",
+        "fieldName": "",
+        "fieldValue": "",
+        "footer": "¡Server en mantenimiento!"
+    },
+    "online": {
+        "colour": "#00FF00",
+        "description": "**Estado** ```🟢 Online```",
+        "footer": "Server Online :)"
+    },
+    "offline": {
+        "colour": "#FF0000",
+        "description": "**Estado** ```🔴 Offline```",
+        "footer": "Server Offline :("
+    }, 
+    "customStatus": {
+        "online": "¡Online {online/max}!",
+        "onlineType": "PLAYING",
+        "onlineStatus": "online",
+        "maintenance": "¡En mantenimiento!",
+        "maintenanceType": "WATCHING",
+        "maintenanceStatus": "idle",
+        "offline": "Un servidor offline",
+        "offlineType": "WATCHING",
+        "offlineStatus": "dnd"
+    },
+    "commands": {
+        "enableSlashCommands": true,
+        "enableMessageCommands": true,
+        "prefix": "!",
+        "requiredPermission": "MANAGE_GUILD"
+    }
+}
