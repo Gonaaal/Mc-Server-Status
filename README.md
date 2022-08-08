@@ -19,14 +19,13 @@
 
 # Instalacion:
 1. Escibre`npm i` en el cmd si no lo has echo aun.
-2. Renombra `.env.sample` a `.env`
-3. Renombra `config.json.sample` a `config.json`
-4. Edita `config.json` como tu quieras
-5. Anade, la ip del server, Puerto, Muestre la IP y el canal donde desea que vaya el mensaje incrustado en el archivo`.env`.
-6. Inicia el bot usando `node .`
-7. Detenga el bot una vez que se haya enviado el mensaje.
-8. Copie el ID del mensaje y péguelo en el archivo `.env`.
-9. Inicia el bot otra vez.
+2. Edita `config.json` como tu quieras
+3. Edita `.env` y anade lo necesario
+4. Anade, la ip del server, Puerto, Muestre la IP y el canal donde desea que vaya el mensaje incrustado en el archivo`.env`.
+5. Inicia el bot usando `node .`
+6. Detenga el bot una vez que se haya enviado el mensaje.
+7. Copie el ID del mensaje y péguelo en el archivo `.env`.
+8. Inicia el bot otra vez.
 
 # Creditos
 Creado por <a href="https://github.com/Lukeos11">Lukeos11</a> traducido y modificado por <a href="https://github.com/gonaaal">Gonaaal</a>
