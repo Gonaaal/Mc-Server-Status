@@ -4,7 +4,7 @@
 ***
 
 
-### [**Spigot Url**]([https://support.milrato.eu](https://www.spigotmc.org/resources/mc-discord-server-status-bot.96831/))
+### [**Spigot Url**](https://www.spigotmc.org/resources/mc-discord-server-status-bot.96831/]
 
 ***
 
