@@ -1,4 +1,4 @@
-// TODO: ADD AUTO CLEARING WHEN THE STATUS UPDATES TO ONLINE
+// AÑADIR ELIMINACIÓN AUTOMÁTICA CUANDO EL ESTADO SE ACTUALICE EN LÍNEA
 
 const Discord = require('discord.js');
 const ms = require('ms');
@@ -173,7 +173,7 @@ function updateStatus() {
         } else {
             const Embed = new Discord.MessageEmbed()
             .setColor(config.offline.colour)
-            .setTitle('Estado de Alxcraft Network')
+            .setTitle('Estado de Nombre Server')
             .setURL(config.website)
             .setAuthor(config.servername, config.youricon, config.website)
             .setDescription(config.offline.description)
