@@ -29,5 +29,8 @@
 7. Copie el ID del mensaje y péguelo en el archivo `.env`
 8. Inicia el bot otra vez.
 
+![Embed Online](imagenes/embed-online.png)
+![Embed Mantenimiento](imagenes/embed-mantenimiento.png)
+![Embed Offline](imagenes/embed-offline.png)
 # Creditos
 Creado por <a href="https://github.com/Lukeos11">Lukeos11</a> traducido y modificado por <a href="https://github.com/gonaaal">Gonaaal</a>
