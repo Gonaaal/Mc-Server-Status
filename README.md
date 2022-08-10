@@ -21,7 +21,7 @@
 1. Escibre `npm i` en el cmd si no lo has echo aún.
 2. Edita `config.json` como tu quieras.
 3. Edita `.env` y añade lo necesario.
-4. Añade, la ip del server, el puerto, Muestre la IP y el canal donde desea que se envie el embed incrustado en el archivo `.env`.
+4. Añade, la ip del server, el puerto, Muestre la IP y el canal donde desea que se envie el embed incrustado en el archivo `.env`
 5. Inicia el bot usando `node .`
 6. Detenga el bot una vez que se haya enviado el mensaje.
 7. Copie el ID del mensaje y péguelo en el archivo `.env`
