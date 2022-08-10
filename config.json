@@ -8,10 +8,9 @@
     "guildid": "ID SERVER",
     "maintenancemode": {
         "colour": "#FFA500",
-        "description": "",
-        "fieldName": "",
-        "fieldValue": "",
+        "description": "**Estado** ```🟡 Mantenimiento```",
         "footer": "¡Server en mantenimiento!"
+
     },
     "online": {
         "colour": "#00FF00",
