@@ -1,14 +1,14 @@
 {
-  "name": "hyperbolt-status-bot",
+  "name": "status-bot",
   "version": "1.0.0",
-  "description": "A status discord bot for hyperbolt mc!",
+  "description": "¡Bot de estado server minecraft!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lukeos11/hyperbolt-mc-server-status.git"
+    "url": "git+https://github.com/Gonaaal/mc-server-status.git"
   },
   "keywords": [
     "Discord-Bot",
@@ -22,9 +22,9 @@
   "author": "Lukeos11",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Lukeos11/hyperbolt-mc-server-status/issues"
+    "url": "https://github.com/Gonaaal/mc-server-status/issues"
   },
-  "homepage": "https://github.com/Lukeos11/hyperbolt-mc-server-status#readme",
+  "homepage": "https://github.com/Gonaaal/mc-server-status/#readme",
   "dependencies": {
     "@discordjs/builders": "^0.6.0",
     "@discordjs/rest": "^0.1.0-canary.0",
