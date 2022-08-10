@@ -1,6 +1,8 @@
 # Status Mc
 
-
+![Online Status Ejemplo de mc.dukencraft.xyz](images/online.png)
+![Server en Mantenimiento](images/mantenimiento.png)
+![Server Offline](images/offline.png)
 ***
 
 
