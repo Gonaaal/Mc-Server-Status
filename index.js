@@ -158,7 +158,7 @@ function updateStatus() {
         } else if (currentlyOnline === true) {
             const Embed = new Discord.MessageEmbed()
             .setColor(config.online.colour)
-            .setTitle('Estado de Alxcraft Network')
+            .setTitle('Estado de Nombre del Server')
             .setURL(config.website)
             .setAuthor(config.servername, config.youricon, config.website)
             .setDescription(config.online.description)
