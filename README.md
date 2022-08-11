@@ -3,11 +3,11 @@
 ![Online Status Ejemplo de mc.dukencraft.xyz](imagenes/online.png)
 ![Server en Mantenimiento](imagenes/mantenimiento.png)
 ![Server Offline](imagenes/offline.png)
+***
 
 
 
-
-
+### [**Spigot Url**](https://www.spigotmc.org/resources/mc-discord-server-status-bot.96831/)
 ***
 
 
