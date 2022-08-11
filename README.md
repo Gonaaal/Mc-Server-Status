@@ -6,7 +6,7 @@
 ***
 
 
-### [**Spigot Url**](https://www.spigotmc.org/resources/mc-discord-server-status-bot.96831/)
+
 
 ***
 
