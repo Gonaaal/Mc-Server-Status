@@ -3,7 +3,7 @@
 ![Online Status Ejemplo de mc.dukencraft.xyz](imagenes/online.png)
 ![Server en Mantenimiento](imagenes/mantenimiento.png)
 ![Server Offline](imagenes/offline.png)
-***
+
 
 
 
