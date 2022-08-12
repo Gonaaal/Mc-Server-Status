@@ -95,12 +95,12 @@ async function getServerInfoV1() {
 
 function updateStatus() {
     const channel = client.channels.cache.get(process.env.CHANNELID);
-    if (!channel) return new Error('ID de canal no está definido!');
+    if (!channel) return new Error('¡ID de canal no está definido!');
 
     if (!process.env.MESSAGEID) {
         const setupEmbed = new Discord.MessageEmbed()
         .setTitle('¡Configuración!')
-        .setDescription('¡El BOT se está configurando actualmente! Este es un mensaje para obtener el ID de mensaje de Witch, ¡podemos editar este mensaje!')
+        .setDescription('¡El bot se está configurando actualmente! ¡Este es un mensaje para obtener el ID de mensjae para actualizar cada vez!')
         .setTimestamp()
         
         channel.send({ embeds: [setupEmbed] }).then(() => {
@@ -142,7 +142,7 @@ function updateStatus() {
         if (maintenanceMode === true) {
             const Embed = new Discord.MessageEmbed()
             .setColor(config.maintenancemode.colour)
-            .setTitle('Estado de Nombre del Server')
+            .setTitle('Estado de ' + config.servername)
             .setURL(config.website)
             .setAuthor(config.servername, config.youricon, config.website)
             .setDescription(config.maintenancemode.description)
@@ -150,7 +150,7 @@ function updateStatus() {
             .addFields(
                 { name: config.maintenancemode.fieldName, value: config.maintenancemode.fieldValue },
                 { name: '**Jugadores:** ', value: currentPlayers },
-                { name: '**IP**', value: config.displayip },
+                { name: '**IP:**', value: config.displayip },
             )
             .setTimestamp()
             .setFooter(config.maintenancemode.footer, config.youricon);
@@ -158,7 +158,7 @@ function updateStatus() {
         } else if (currentlyOnline === true) {
             const Embed = new Discord.MessageEmbed()
             .setColor(config.online.colour)
-            .setTitle('Estado de Nombre del Server')
+            .setTitle('Estado de ' + config.servername)
             .setURL(config.website)
             .setAuthor(config.servername, config.youricon, config.website)
             .setDescription(config.online.description)
@@ -173,7 +173,7 @@ function updateStatus() {
         } else {
             const Embed = new Discord.MessageEmbed()
             .setColor(config.offline.colour)
-            .setTitle('Estado de Nombre Server')
+            .setTitle('Estado de ' + config.servername)
             .setURL(config.website)
             .setAuthor(config.servername, config.youricon, config.website)
             .setDescription(config.offline.description)
@@ -190,7 +190,7 @@ function updateStatus() {
 }
 
 client.on('ready', c => {
-    console.log(`Conectado como ${c.user.tag}`);
+    console.log(`Conectado como: ${c.user.tag}`);
     updateStatus();
     setInterval(() => {
         updateStatus();
