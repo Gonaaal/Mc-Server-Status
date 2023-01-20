@@ -11,7 +11,7 @@
 - Crear sistema de avisos si hay mantenimiento etc...
 
 # Iniciar el Bot:
-1. - Usa `npm i` para actualizar paquetes.
+1. - Usa `npm i` para actualizar paquetes. o actualizar.bat
 2. - Usa `node .` para iniciar el bot.
 
 # Instalación:
