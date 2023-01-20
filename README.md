@@ -12,7 +12,7 @@
 
 # Iniciar el Bot:
 1. - Usa `npm i` para actualizar paquetes o **actualizar.bat**.
-2. - Usa `node .` para iniciar el bot.
+2. - Usa `node .` para iniciar el bot o **start.bat**
 
 # Instalación:
 1. Escibre `npm i` en el cmd si no lo has echo aún.
