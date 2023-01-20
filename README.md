@@ -3,12 +3,7 @@
 ![Online Status Ejemplo de mc.dukencraft.xyz](imagenes/online.png)
 ![Server en Mantenimiento](imagenes/mantenimiento.png)
 ![Server Offline](imagenes/offline.png)
-***
 
-
-
-### [**Spigot Url**](https://www.spigotmc.org/resources/mc-discord-server-status-bot.96831/)
-***
 
 
 #  Cosas que hacer (opcional):
@@ -35,4 +30,9 @@
 
 # Creditos
 Creado por <a href="https://github.com/Lukeos11">Lukeos11</a> modificado errores, variables, bugs y traducido al español <a href="https://github.com/gonaaal">Gonaaal</a>
+***
 
+
+
+### [**Spigot Url**](https://www.spigotmc.org/resources/mc-discord-server-status-bot.96831/)
+***
