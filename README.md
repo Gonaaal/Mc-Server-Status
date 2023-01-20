@@ -52,5 +52,5 @@ I reserve the right to change these terms without notice.
 
 
 # Creditos
-Creado por <a href="https://github.com/Lukeos11">Lukeos11</a> traducido y modificado por <a href="https://github.com/gonaaal">Gonaaal</a>
+Creado por <a href="https://github.com/Lukeos11">Lukeos11</a> modificado errores, variables, bugs y traducido al español <a href="https://github.com/gonaaal">Gonaaal</a>
 
