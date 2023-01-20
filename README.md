@@ -5,11 +5,6 @@
 ![Server Offline](imagenes/offline.png)
 
 
-
-#  Cosas que hacer (opcional):
-- Crea tu propio mensaje de status.
-- Crear sistema de avisos si hay mantenimiento etc...
-
 # Iniciar el Bot:
 1. - Usa `npm i` para actualizar paquetes o **actualizar.bat**.
 2. - Usa `node .` para iniciar el bot o **start.bat**
