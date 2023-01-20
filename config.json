@@ -6,16 +6,12 @@
     "UpdateIntervalEmbed": "10s",
     "UpdateIntervalAPIChecking": "10s",
     "guildid": "ID SERVER",
-    "maintenancemode": {
-        "colour": "#FFA500",
-        "description": "**Estado** ```🟡 Mantenimiento```",
-        "footer": "¡Server en mantenimiento!"
-
     },
     "online": {
         "colour": "#00FF00",
         "description": "**Estado** ```🟢 Online```",
-        "footer": "Server Online :)"
+        "footer": "Server Online :)",
+        "mantenimiento": "https://pastebin.com/2xG3xftx"
     },
     "offline": {
         "colour": "#FF0000",
