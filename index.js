@@ -166,6 +166,8 @@ function updateStatus() {
             .addFields(
                 { name: '**Jugadores:**', value: currentPlayers },
                 { name: 'IP:', value: config.displayip },
+                // Para mantenimiento, razón del mantenimiento
+                // { name: 'Razón:', value: customMessage || 'Sin razón especificada.'},
             )
             .setTimestamp()
             .setFooter(config.online.footer, config.youricon);
