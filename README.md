@@ -23,11 +23,5 @@
 ![Embed Mantenimiento](imagenes/embed-mantenimiento.png)
 ![Embed Offline](imagenes/embed-offline.png)
 
-# Creditos
-Creado por <a href="https://github.com/Lukeos11">Lukeos11</a> modificado errores, variables, bugs y traducido al español <a href="https://github.com/gonaaal">Gonaaal</a>
-***
-
-
-
 ### [**Spigot Url**](https://www.spigotmc.org/resources/mc-discord-server-status-bot.96831/)
 ***
