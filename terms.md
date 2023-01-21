@@ -1,7 +1,7 @@
 ───────────────────────────────────────
 Terms And Conditions
 ───────────────────────────────────────
-​
+a​
 By purchasing any of my resource, you automatically accept this terms weather you read them or not.
 
 You are NOT allowed to share or redistribute my products.
@@ -13,6 +13,6 @@ If you request refund or chargeback your license will be permanently removed.
 Prices are subject to change at any time without notice.
 I reserve the right to change these terms without notice.
 
-**Creditos**
+**Creditos:**
 Creado por <a href="https://github.com/Lukeos11">Lukeos11</a> modificado errores, variables, bugs y traducido al español <a href="https://github.com/gonaaal">Gonaaal</a>
 ***
